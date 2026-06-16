@@ -2,7 +2,7 @@
 	"name": "elevup-day8",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "alvinjoby.github.io/elevup-day8/",
+	"homepage": "https://alvinjoby.github.io/elevup-day8",
 	"dependencies": {
 		"@mantine/core": "^4.2.12",
 		"@mantine/hooks": "^4.2.12",
